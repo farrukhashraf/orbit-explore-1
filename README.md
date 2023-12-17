@@ -9,11 +9,7 @@ Das ist unser Universitätsprojekt. Es wurde mit Matlab programmiert. Es demonst
 
 ## Group Members
 - [Farrukh Ashraf](https://de.linkedin.com/in/farrukh-ashraf-3a7b13137)
-- [Muhammad Hamza Bashir]()
-- [Jawwad Gill]()
-- [Luka Wernke]()
-- [Zain Ali Sher]()
-- [Moaiad Ahmed]()
+
 
 ## Special Mentions
 Special thanks to [Björn Wendt](https://de.linkedin.com/in/bj%C3%B6rn-wendt-89285441) for all the guidance and help.
